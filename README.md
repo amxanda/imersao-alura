@@ -34,7 +34,7 @@ create-react-app nome-do-projeto
 </p>
 Projeto: https://imersao-alura-sand.vercel.app/
 
-<h4 align="left">Tecnologias utilizadas</h3>
+<h3 align="left">Tecnologias utilizadas</h3>
 <p align="left">
   <img width="64px" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img width="64px" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
